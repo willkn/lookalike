@@ -1,7 +1,8 @@
 .DS_Store
 node_modules
 /dist
-
+/people
+lfw-deepfunneled
 
 # local env files
 .env.local
